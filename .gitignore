@@ -1,0 +1,7 @@
+# Folders
+out/
+/shelf/
+
+# Files
+.idea/workspace.xml
+.idea/vcs.xml
